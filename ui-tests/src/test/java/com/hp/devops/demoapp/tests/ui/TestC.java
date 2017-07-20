@@ -96,7 +96,8 @@ public class TestC {
 
     @Category(SpecialTests.class)
     @Test
-    public void testUIcaseF() {
+    public void testUIcaseF() { 
+        //test
         System.out.println("Proudly  running test " + Thread.currentThread().getStackTrace()[1]);
         WebElement query;
         if (isMusicApp) {
