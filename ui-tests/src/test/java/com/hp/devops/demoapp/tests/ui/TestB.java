@@ -93,7 +93,7 @@ public class TestB {
 //             Assert.assertEquals(query.getTagName(), "body");
 //         }
 //         Assert.assertEquals(query.isDisplayed(), true);
-         Assert.assertEquals(true, true);
+        Assert.fail("Catch me if u can...:-)))");
     }
     
 
@@ -110,7 +110,8 @@ public class TestB {
 //             Assert.assertEquals(query.getTagName(), "body");
 //         }
 //         Assert.assertEquals(query.isDisplayed(), true);
-        Assert.assertEquals(true, true);
+        
+        Assert.fail("Catch me if u can...:-)))");
     }
 
 }
