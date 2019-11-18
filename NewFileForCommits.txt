@@ -1,2 +1,2 @@
 ECHO is on.
-Current Date and Time is: ${CURRENTDATE}  
+ 9:33:08.33  
